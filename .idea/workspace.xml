@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eecf8372-62c1-4e6b-aee1-51299d2bc932" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/Category.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/views-cache/categories-create.af0ebacab35ab4163be892185bdb28e7.rtpl.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/views-cache/categories-update.af0ebacab35ab4163be892185bdb28e7.rtpl.php" />
@@ -14,6 +15,9 @@
       <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" />
       <change beforePath="$PROJECT_DIR$/views-cache/header.af0ebacab35ab4163be892185bdb28e7.rtpl.php" afterPath="$PROJECT_DIR$/views-cache/header.af0ebacab35ab4163be892185bdb28e7.rtpl.php" />
       <change beforePath="$PROJECT_DIR$/views/admin/header.html" afterPath="$PROJECT_DIR$/views/admin/header.html" />
+=======
+      <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +47,13 @@
       <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/User.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="214">
               <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+=======
+            <state relative-caret-position="166">
+              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
               <folding>
                 <element signature="e#32#49#0#PHP" expanded="true" />
                 <marker date="1517763659000" expanded="true" signature="300:346" ph="SELECT * FRO... tb_users" />
@@ -63,8 +72,13 @@
       <file leaf-file-name="Model.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="327">
               <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+=======
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
               <folding />
             </state>
           </provider>
@@ -73,8 +87,13 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="370">
               <caret line="300" column="0" lean-forward="true" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+=======
+            <state relative-caret-position="446">
+              <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
               <folding />
             </state>
           </provider>
@@ -131,13 +150,13 @@
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/PageAdmin.php" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" />
         <option value="$PROJECT_DIR$/views/admin/header.html" />
-        <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" />
         <option value="$PROJECT_DIR$/views/admin/users.html" />
         <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/views/admin/login.html" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Mailer.php" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/User.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php" />
       </list>
     </option>
   </component>
@@ -165,10 +184,17 @@
       <path value="$PROJECT_DIR$/vendor/hcodebr/php-classes" />
     </include_path>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="101" />
     <option name="y" value="23" />
     <option name="width" value="1238" />
+=======
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="589" />
+    <option name="y" value="23" />
+    <option name="width" value="777" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -295,6 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="41388000" />
   </component>
   <component name="ToolWindowManager">
@@ -302,6 +329,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3043478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="39942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="589" y="23" width="777" height="741" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30476192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -650,6 +686,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -658,13 +695,20 @@
         <state relative-caret-position="370">
           <caret line="300" column="0" lean-forward="true" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
           <folding />
+=======
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="214">
           <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+=======
+        <state relative-caret-position="166">
+          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
           <folding>
             <element signature="e#32#49#0#PHP" expanded="true" />
             <marker date="1517763659000" expanded="true" signature="300:346" ph="SELECT * FRO... tb_users" />
@@ -681,8 +725,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="327">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+=======
+        <state relative-caret-position="446">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+>>>>>>> 0b19369de0ebffb9d65dded31e02d11b4facc58a
           <folding />
         </state>
       </provider>

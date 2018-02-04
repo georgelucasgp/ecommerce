@@ -4,7 +4,7 @@
  * User: georgelucas
  * Date: 03/02/2018
  * Time: 02:10
- */
+ *///
 
 namespace Hcode;
 
@@ -22,7 +22,7 @@ class Model
         switch ($method) {
 
             case "get":
-                return (isset($this->values[$fieldName])) ? $this->values[$fieldName] : NULL;
+                return $this->values[$fieldName];
                 break;
 
             case "set":
