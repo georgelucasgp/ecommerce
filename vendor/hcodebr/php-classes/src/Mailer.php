@@ -13,8 +13,8 @@ use Rain\Tpl;
 class Mailer
 {
 
-    const USERNAME = "EMAIL";
-    const PASSWORD = "SENHA";
+    const USERNAME = "djgeorgelucasgp@gmail.com";
+    const PASSWORD = "Newlucas123";
     const NAME_FROM = "LOJA VIRTUAL";
 
     private $mail;

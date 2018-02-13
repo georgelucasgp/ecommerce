@@ -58,6 +58,10 @@ $app->get('/admin/logout', function () {
     exit;
 });
 
+
+//-------------FORGOUT--------------
+
+
 $app->get('/admin/forgot', function () {
 
     $page = new PageAdmin([
@@ -68,12 +72,6 @@ $app->get('/admin/forgot', function () {
     $page->setTpl("forgot");
 
 });
-
-
-
-//-------------FORGOUT--------------
-
-
 
 $app->post('/admin/forgot', function (){
 
